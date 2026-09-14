@@ -1,0 +1,3 @@
+Proofline synthetic supplementary-artifact placeholder for smoke tests only.
+Satisfies rule `required_repository_file_supplementary` (path `figures/results.pdf`).
+File contents are never read by the deterministic local repository collector.
